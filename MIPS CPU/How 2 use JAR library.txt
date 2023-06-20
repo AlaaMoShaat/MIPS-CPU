@@ -1,0 +1,9 @@
+Do not try to extract jar file. You should load it as a JAR library.
+
+ 
+
+While loading it, use   “edu.cornell.cs316.Components”  when a name is required.
+
+
+
+
